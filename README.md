@@ -39,7 +39,7 @@
         </div>
         <div class="github-icon">
             <img src="assests/css/images/github.png"width="25px" height="25px">
-            <p>Jayapriya</p>
+            <p>Arun Karthik.V</p>
         </div>
     </div>
     <div class="second-row">
