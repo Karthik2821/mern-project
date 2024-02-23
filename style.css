@@ -1,0 +1,259 @@
+body{
+    background-color: grey;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.navbar h2{
+    text-align: center;
+    padding-top: 20px;
+}.dashboard{
+    width: 20%;
+    height: 740px;
+    background-color: #555; 
+    color: #fff;
+    justify-content: center;
+}
+.navbar a {
+    float: inherit;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+  } 
+  .first-row
+  {
+    position: relative;
+    bottom: 100vh;
+    left: 500px;
+    /* padding: 20px; */
+    height: 5vh;
+    /* width: 500vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .search-bar
+  {
+    position: relative;
+    width: 1000vh;
+    right: 530px;
+    display: flex;
+    justify-content: center;
+     
+  }
+  .search-bar input
+  {
+    border: none;
+    padding: 10px;
+    width: 50%;
+    border-radius: 25px; 
+  }
+  .search-bar a{
+    color: #fff; 
+   }
+  .bell-icon 
+  {
+    position: relative;
+    right:55%;
+    width:100px;
+  }
+  .bell-icon a{
+    color: #fff;
+  }
+  .github-icon 
+  {
+    left: 200px;
+    display: flex;
+  }
+ .second-row
+  {
+    position: relative;
+    bottom: 100vh;
+    left: 300px;
+    /* width:80vw; */
+    height: 10vh;
+    display: flex;
+    align-items: baseline;
+    justify-content: left;
+  }
+  .profile img{
+        margin-top: 30px;
+        display: flex;
+        width: 60px;
+        height: 60px;
+    }
+   .second-row .topic
+    {
+      position: relative;
+      bottom: 5vh;
+      left: 5vh;
+      
+    }
+    .profile>img
+    { 
+        max-width: 100px;
+        max-height: 100px;
+        margin-left: 30px;
+        clip-path: circle();
+    }
+    .btn
+    {
+        position: relative;
+        bottom: 100vh;
+        width:150vw;
+        margin: 2px;
+        height: 10vh;
+        border-radius: 25px;
+        left: 1000px;
+        
+    }
+    .middle-container
+    {
+    box-sizing: border-box;
+    position: relative;
+    bottom: 122vh;
+    left: 300px;
+
+    }
+    .title
+    {
+    margin-top: 180px;
+    
+    }
+    .title h4{
+    font-size: 20px;
+    position: relative;
+    bottom: 60px;
+    }
+    .container-1 
+    {
+    display: flex;
+    box-sizing: border-box;
+    }
+    .container-1 .box-1
+    {
+    position: relative;
+    bottom: 80px;
+    margin: 15px;
+    border: 2px solid;
+    border-radius: 10px;
+    border-left: 10px solid blueviolet ;
+    width: 25%;
+    }
+    .box-1 img{
+    float: right;
+    padding: 10px;
+    }
+    .container-1 .box-2
+    {
+    position: relative;
+    bottom: 80px;
+    margin: 15px;
+    border: 2px solid;
+    border-radius: 10px;
+    border-left: 10px solid blueviolet ;
+    width: 25%;
+    }
+    .box-2 img{
+    float: right;
+    padding: 10px;
+    }
+    .container-2
+    {
+    display: flex;
+    box-sizing: border-box;
+
+    }
+    .container-2 .box-3
+    {
+    position: relative;
+    bottom: 80px;
+    margin: 15px;
+    border: 2px solid;
+    border-radius: 10px;
+    border-left: 10px solid blueviolet ;
+    width: 25%;
+   }
+   .box-3 img{
+    float: right;
+    padding: 10px;
+   }
+   .container-2 .box-4{
+    position: relative;
+    bottom: 80px;
+    margin: 15px;
+    border: 2px solid;
+    border-radius: 10px;
+    border-left: 10px solid blueviolet ;
+    width: 25%;
+    }
+    .box-4 img{
+    float: right;
+    padding: 10px;
+    }
+    .container-3
+    {
+    display: flex;
+    box-sizing: border-box;
+
+
+    }
+    .container-3 .box-5
+   {
+    position: relative;
+    bottom: 80px;
+    margin: 15px;
+    border: 2px solid;
+    border-radius: 10px;
+    border-left: 10px solid blueviolet ;
+    width: 25%;
+    }
+    .box-5 img{
+    float: right;
+    padding: 10px;
+    }
+    .container-3 .box-6
+    {
+    position: relative;
+    bottom: 80px;
+    margin: 15px;
+    border: 2px solid;
+    border-radius: 10px;
+    border-left: 10px solid blueviolet ;
+    width: 25%;
+    }
+     .box-6 img{
+    float: right;
+    padding: 10px;
+    }
+    .last-container
+   {
+    position: relative;
+    bottom: 225vh;
+    right: 20px;
+    float: right;
+    box-sizing: border-box;
+    width: 25%;
+    padding: 15px;
+    height: 15px;
+
+   }
+   .last-container .topics
+   {
+    border: 2px solid;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 11px;
+
+   }
+.user-container
+{
+    position: relative;
+    bottom: 160vh;
+    left: 360px;
+    float: right;
+    font-size: larger;
+    width: 15%;
+
+}
