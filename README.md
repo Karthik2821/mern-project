@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,8 +17,7 @@
         <h2>Dashboard</h2>
             <br>
             <br>    
-            <li><a href="#"><i class="fa fa-fw fa-home"></i>Home</a></li><br><br>
-            <li><a href="#"><i class="fa fa-fw fa-user"></i> Profile</a></li><br><br>
+            <li><a href="#"><i class="fa fa-fw fa-home"></i>Home</a></li><br><br><br>
             <li><a href="#"><i class="fa fa-fw fa-envelope"></i> Message</a></li><br><br>
             <li><a href="#"><i class="fa fa-fw fa-history"></i> History</a></li> <br><br>
             <li><a href="#"><i class="fa fa-fw fa-file"></i> Tasks</a></li><br><br>
