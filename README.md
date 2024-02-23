@@ -130,7 +130,9 @@
 
 body{
     background-color: grey;
+    
     font-family: sans-serif;
+    
     box-sizing: border-box;
 }
 .navbar h2{
