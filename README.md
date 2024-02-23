@@ -113,9 +113,8 @@
             <div class="box-topic-3">
                 <p><b>Updated Privacy policy</b></p>
                 <p>Loreum ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
-
             </div>
-    </div>
+
 </div>
 <div class="user-container">
             <p><h4>People</h4></p>
